@@ -8,7 +8,8 @@ html {
   -webkit-text-size-adjust: 100%;
 }
 html, body  {
-	margin: 0;
+	background-color: chartreuse;
+    margin: 0;
 }
 /* Correct `block` display not defined in IE 8/9.*/
 article,aside,details,figcaption,figure,footer,header,main,nav,section,summary {
